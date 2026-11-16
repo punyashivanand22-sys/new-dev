@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 im in class in besant
+=======
+im in class 
+i am learning devops
+>>>>>>> devops
